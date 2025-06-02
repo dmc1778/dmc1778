@@ -114,7 +114,12 @@ Welcome to my GitHub profile!. I'm passionate about developing intelligent syste
 
 ### Testing & Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-
+![Flawfinder](https://img.shields.io/badge/Flawfinder-FF6F61?style=flat)
+![RATS](https://img.shields.io/badge/RATS-6A5ACD?style=flat)
+![Cppcheck](https://img.shields.io/badge/Cppcheck-00599C?style=flat)
+![Facebook Infer](https://img.shields.io/badge/Facebook%20Infer-4267B2?style=flat&logo=facebook&logoColor=white)
+![Fortify](https://img.shields.io/badge/Fortify-0066CC?style=flat)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ---
 
 ## 💖 Support Me
