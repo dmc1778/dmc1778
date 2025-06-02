@@ -2,7 +2,7 @@
 
 🎯 **AI Engineer | Machine Learning Enthusiast | OSS Contributor**
 
-Welcome to my GitHub profile!. I'm passionate about developing intelligent systems that solve real-world problems. With a strong foundation in machine learning and deep learning, I specialize in building scalable AI solutions.
+Welcome to my GitHub profile! I'm passionate about developing intelligent systems that solve real-world problems. With a strong foundation in machine learning and deep learning, I specialize in building scalable AI solutions.
 
 ---
 
