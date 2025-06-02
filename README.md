@@ -6,6 +6,8 @@ Welcome to my GitHub profile!. I'm passionate about developing intelligent syste
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dmc1778)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working as an AI Engineer at [HGS Global Solutions](https://hgs.cx/).
