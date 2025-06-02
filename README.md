@@ -31,6 +31,16 @@ Welcome to my GitHub profile!. I'm passionate about developing intelligent syste
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### AI Stack
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-9C2DFF?style=flat)
+![Transformers](https://img.shields.io/badge/Transformers-EE4C2C?style=flat&logo=huggingface&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-004C71?style=flat)
+![Textract](https://img.shields.io/badge/Textract-1E90FF?style=flat)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR-6B6B6B?style=flat)
+![DocLingo](https://img.shields.io/badge/DocLingo-007ACC?style=flat)
+![Markitdown](https://img.shields.io/badge/Markitdown-FF6F61?style=flat)
+![LlamaParse](https://img.shields.io/badge/LlamaParse-8A2BE2?style=flat)
+![Unstructured](https://img.shields.io/badge/Unstructured-20B2AA?style=flat)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00A2FF?style=flat&logo=python&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
