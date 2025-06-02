@@ -8,7 +8,7 @@ Welcome to my GitHub profile!. I'm passionate about developing intelligent syste
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working at [HGS Global Solutions](https://hgs.cx/).
+- 🔭 I’m currently working as an AI at [HGS Global Solutions](https://hgs.cx/).
 - 💬 Ask me about **Large Language Models**, **Full-Stack Software Development**, and **AI Infrastructure**.
 - 📫 How to reach me: [nimashiri2012@gmail.com](mailto:nimashiri2012@gmail.com).
 - 🌱 Check out my publications on [Google Scholar Profile](https://scholar.google.ca/citations?user=bAWtq60AAAAJ&hl=en).
