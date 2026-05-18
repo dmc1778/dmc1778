@@ -25,7 +25,6 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 - Reduced CHC checklist drafting time by **80%+** (from ~4 hours to ~30 minutes)
 - Achieved **zero ICB rejections** in pilot (previously 1 in 10)
 - Shortlisted for **9 sector awards** — MJ Awards, LGC Awards, HTN Awards
-- Built with RAG, LangChain, FastAPI, Azure OpenAI, AWS ECS/S3, MongoDB
 - HIPAA/GDPR-compliant architecture; UK-hosted infrastructure via HGS UK
 
 ## 🤖 AI & LLM
