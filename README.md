@@ -17,6 +17,23 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 
 ---
 
+## Summary 
+
+## 🤖 AI Skills
+
+| Skill | Level |
+|---|---|
+| Large Language Models (LLMs) | ![](https://img.shields.io/badge/█████████░-Expert-0052CC?style=flat) |
+| RAG & Document Pipelines | ![](https://img.shields.io/badge/█████████░-Expert-0052CC?style=flat) |
+| Agentic AI & Multi-Agent Systems | ![](https://img.shields.io/badge/████████░░-Advanced-185FA5?style=flat) |
+| Prompt Engineering | ![](https://img.shields.io/badge/█████████░-Expert-0052CC?style=flat) |
+| AI Observability & Evaluation | ![](https://img.shields.io/badge/████████░░-Advanced-185FA5?style=flat) |
+| Vector Search & Embeddings | ![](https://img.shields.io/badge/████████░░-Advanced-185FA5?style=flat) |
+| Fine-Tuning & Model Adaptation | ![](https://img.shields.io/badge/███████░░░-Intermediate-FF9900?style=flat) |
+| MLOps & AI Infrastructure | ![](https://img.shields.io/badge/███████░░░-Intermediate-FF9900?style=flat) |
+| NLP & Text Processing | ![](https://img.shields.io/badge/████████░░-Advanced-185FA5?style=flat) |
+| Computer Vision / OCR | ![](https://img.shields.io/badge/██████░░░░-Intermediate-FF9900?style=flat) |
+
 ## 🤖 AI & LLM
 
 **Frameworks & orchestration**
