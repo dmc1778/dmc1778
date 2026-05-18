@@ -3,7 +3,7 @@
 **AI Engineer · Machine Learning · OSS Contributor**
 
 I build scalable AI solutions with a strong foundation in LLMs, agentic systems, and full-stack development.
-Currently working at [HGS Global Solutions](https://hgs.cx/).
+Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 
 📫 nimashiri2012@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nima-shiriharzevili/) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.ca/citations?user=bAWtq60AAAAJ&hl=en)
 
@@ -12,7 +12,7 @@ Currently working at [HGS Global Solutions](https://hgs.cx/).
 ## What I work on
 
 - **LLM & agentic systems** — building production RAG pipelines, multi-agent workflows, and LLM-powered applications
-- **AI infrastructure** — self-hosted inference, cloud deployment, observability and evaluation
+- **AI infrastructure** — self-hosted inference, cloud deployment, observability, and evaluation
 - **Full-stack development** — REST APIs, web apps, and databases end-to-end
 
 ---
