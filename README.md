@@ -54,7 +54,7 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 | Large Language Models | LangChain · LlamaIndex · Ollama · vLLM · Transformers |
 | Agentic AI & Multi-Agent Systems | LangGraph · LlamaIndex · LangChain Agents |
 | RAG & Document Pipelines | LlamaIndex · LlamaParse · Textract · Tesseract OCR · Qdrant |
-| Prompt Engineering | LangChain Hub · LCEL · LangSmith |
+| Prompt Engineering | LangSmith |
 | AI Observability & Evaluation | LangSmith · Opik |
 | Vector Search & Embeddings | Qdrant · FAISS · LlamaIndex |
 | NLP & Text Processing | spaCy · NLTK · Transformers · Textract |
