@@ -116,9 +116,12 @@ Currently working at [HGS Global Solutions](https://hgs.cx/).
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmc1778&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmc1778&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=dmc1778&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmc1778&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" /></td>
+    </tr>
+  </table>
 </p>
 
 ---
