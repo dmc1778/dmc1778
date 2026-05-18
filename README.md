@@ -17,22 +17,16 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 
 ---
 
-## Summary 
+## Overview of Skills
 
-## 🤖 AI Skills
-
-| Skill | Level |
-|---|---|
-| Large Language Models (LLMs) | ![](https://img.shields.io/badge/█████████░-Expert-0052CC?style=flat) |
-| RAG & Document Pipelines | ![](https://img.shields.io/badge/█████████░-Expert-0052CC?style=flat) |
-| Agentic AI & Multi-Agent Systems | ![](https://img.shields.io/badge/████████░░-Advanced-185FA5?style=flat) |
-| Prompt Engineering | ![](https://img.shields.io/badge/█████████░-Expert-0052CC?style=flat) |
-| AI Observability & Evaluation | ![](https://img.shields.io/badge/████████░░-Advanced-185FA5?style=flat) |
-| Vector Search & Embeddings | ![](https://img.shields.io/badge/████████░░-Advanced-185FA5?style=flat) |
-| Fine-Tuning & Model Adaptation | ![](https://img.shields.io/badge/███████░░░-Intermediate-FF9900?style=flat) |
-| MLOps & AI Infrastructure | ![](https://img.shields.io/badge/███████░░░-Intermediate-FF9900?style=flat) |
-| NLP & Text Processing | ![](https://img.shields.io/badge/████████░░-Advanced-185FA5?style=flat) |
-| Computer Vision / OCR | ![](https://img.shields.io/badge/██████░░░░-Intermediate-FF9900?style=flat) |
+![LLMs](https://img.shields.io/badge/LLMs-Expert-0052CC?style=flat&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-Expert-0052CC?style=flat)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Expert-0052CC?style=flat)
+![Fine--Tuning](https://img.shields.io/badge/Fine--Tuning-Intermediate-FF9900?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Expert-0052CC?style=flat)
+![AI Observability](https://img.shields.io/badge/AI_Observability-Expert-0052CC?style=flat)
+![Vector Search](https://img.shields.io/badge/Vector_Search-Expert-0052CC?style=flat)
+![MLOps](https://img.shields.io/badge/MLOps-Intermediate-FF9900?style=flat)
 
 ## 🤖 AI & LLM
 
