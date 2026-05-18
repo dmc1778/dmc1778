@@ -17,24 +17,6 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 
 ---
 
-## Overview of Skills
-
-## 🤖 AI Skills
-
-| Skill | Tools & Technologies |
-|---|---|
-| Large Language Models | LangChain · LlamaIndex · Ollama · vLLM · Transformers |
-| Agentic AI & Multi-Agent Systems | LangGraph · LlamaIndex · LangChain Agents |
-| RAG & Document Pipelines | LlamaIndex · LlamaParse · Textract · Tesseract OCR · Qdrant |
-| Prompt Engineering | LangChain Hub · LCEL · LangSmith |
-| AI Observability & Evaluation | LangSmith · Opik |
-| Vector Search & Embeddings | Qdrant · FAISS · LlamaIndex |
-| NLP & Text Processing | spaCy · NLTK · Transformers · Textract |
-| Deep Learning | PyTorch · TensorFlow · scikit-learn |
-| Local LLM Inference | Ollama · vLLM |
-| OCR & Document Parsing | Tesseract OCR · Textract · LlamaParse |
-| Cloud AI Deployment | AWS ECS · AWS EC2 · Azure AI Foundry · Docker · Kubernetes |
-
 ## 🤖 AI & LLM
 
 **Frameworks & orchestration**
