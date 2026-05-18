@@ -43,45 +43,37 @@ Welcome to my GitHub profile! I'm passionate about developing intelligent system
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### AI Stack
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-9C2DFF?style=flat)
-![Transformers](https://img.shields.io/badge/Transformers-EE4C2C?style=flat&logo=huggingface&logoColor=white)
-![Gensim](https://img.shields.io/badge/Gensim-004C71?style=flat)
-![Textract](https://img.shields.io/badge/Textract-1E90FF?style=flat)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR-6B6B6B?style=flat)
-![DocLingo](https://img.shields.io/badge/DocLingo-007ACC?style=flat)
-![Markitdown](https://img.shields.io/badge/Markitdown-FF6F61?style=flat)
-![LlamaParse](https://img.shields.io/badge/LlamaParse-8A2BE2?style=flat)
-![Unstructured](https://img.shields.io/badge/Unstructured-20B2AA?style=flat)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=flat&logo=python&logoColor=white)
+### AI Core Framework
 ![LangChain](https://img.shields.io/badge/LangChain-00A2FF?style=flat&logo=python&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=flat&logo=qdrant&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF5A5F?style=flat)
+![LlamaParse](https://img.shields.io/badge/LlamaParse-8A2BE2?style=flat)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=flat&logo=python&logoColor=white)
+
+### AI Orchestration
+![LangGraph](https://img.shields.io/badge/LangGraph-00A2FF?style=flat&logo=python&logoColor=white)
+
+### AI Observability
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=flat&logo=python&logoColor=white)
+![Opik](https://img.shields.io/badge/Opik-7B61FF?style=flat&logo=python&logoColor=white)
+
+### Deep Learning Frameworks
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### NLP & Text Processing
+![Transformers](https://img.shields.io/badge/Transformers-EE4C2C?style=flat&logo=huggingface&logoColor=white)
+
+### Self-Hosted LLM Inference
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=python&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-0052CC?style=flat&logo=python&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat)
-![ONNX](https://img.shields.io/badge/ONNX-6B8E23?style=flat&logo=onnx&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ### Web & API Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![SaaS](https://img.shields.io/badge/SaaS-15c39a?style=flat)
 
 ### Blockchain & Web3
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121011?style=flat)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -90,7 +82,6 @@ Welcome to my GitHub profile! I'm passionate about developing intelligent system
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=flat&logo=qdrant&logoColor=white)
 
 ### Data Science & Machine Learning
@@ -98,8 +89,6 @@ Welcome to my GitHub profile! I'm passionate about developing intelligent system
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -109,7 +98,7 @@ Welcome to my GitHub profile! I'm passionate about developing intelligent system
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-### Testing & Automation
+### Testing & Source Code Auditing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Flawfinder](https://img.shields.io/badge/Flawfinder-FF6F61?style=flat)
 ![RATS](https://img.shields.io/badge/RATS-6A5ACD?style=flat)
