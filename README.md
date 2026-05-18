@@ -25,15 +25,6 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=flat&logo=python&logoColor=white)
 ![LlamaParse](https://img.shields.io/badge/LlamaParse-8A2BE2?style=flat)
 
-## 🔐 AI Compliance & Ethics
-
-| Area | Description |
-|---|---|
-| HIPAA Compliance | Building AI systems that handle protected health information (PHI) in accordance with HIPAA regulations |
-| PII Handling | Designing pipelines with PII detection, masking, and anonymization best practices |
-| Ethical AI | Developing responsible AI systems with fairness, transparency, and bias mitigation in mind |
-| Data Privacy | Applying privacy-by-design principles across data collection, storage, and model inference |
-
 **Deep learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -53,6 +44,35 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 **Observability & evaluation**
 ![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=flat&logo=python&logoColor=white)
 ![Opik](https://img.shields.io/badge/Opik-7B61FF?style=flat&logo=python&logoColor=white)
+
+---
+
+## 🧠 AI Skills
+
+| Skill | Tools & Technologies |
+|---|---|
+| Large Language Models | LangChain · LlamaIndex · Ollama · vLLM · Transformers |
+| Agentic AI & Multi-Agent Systems | LangGraph · LlamaIndex · LangChain Agents |
+| RAG & Document Pipelines | LlamaIndex · LlamaParse · Textract · Tesseract OCR · Qdrant |
+| Prompt Engineering | LangChain Hub · LCEL · LangSmith |
+| AI Observability & Evaluation | LangSmith · Opik |
+| Vector Search & Embeddings | Qdrant · FAISS · LlamaIndex |
+| NLP & Text Processing | spaCy · NLTK · Transformers · Textract |
+| Deep Learning | PyTorch · TensorFlow · scikit-learn |
+| Local LLM Inference | Ollama · vLLM |
+| OCR & Document Parsing | Tesseract OCR · Textract · LlamaParse |
+| Cloud AI Deployment | AWS ECS · AWS EC2 · Azure AI Foundry · Docker · Kubernetes |
+
+---
+
+## 🔐 AI Compliance & Ethics
+
+| Area | Description |
+|---|---|
+| HIPAA Compliance | Building AI systems that handle protected health information (PHI) in accordance with HIPAA regulations |
+| PII Handling | Designing pipelines with PII detection, masking, and anonymization best practices |
+| Ethical AI | Developing responsible AI systems with fairness, transparency, and bias mitigation in mind |
+| Data Privacy | Applying privacy-by-design principles across data collection, storage, and model inference |
 
 ---
 
@@ -127,6 +147,12 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dmc1778&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🤝 Built with
+
+> This profile was crafted with the help of [Claude](https://claude.ai) by Anthropic.
 
 ---
 
