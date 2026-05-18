@@ -25,6 +25,15 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=flat&logo=python&logoColor=white)
 ![LlamaParse](https://img.shields.io/badge/LlamaParse-8A2BE2?style=flat)
 
+## 🔐 AI Compliance & Ethics
+
+| Area | Description |
+|---|---|
+| HIPAA Compliance | Building AI systems that handle protected health information (PHI) in accordance with HIPAA regulations |
+| PII Handling | Designing pipelines with PII detection, masking, and anonymization best practices |
+| Ethical AI | Developing responsible AI systems with fairness, transparency, and bias mitigation in mind |
+| Data Privacy | Applying privacy-by-design principles across data collection, storage, and model inference |
+
 **Deep learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
