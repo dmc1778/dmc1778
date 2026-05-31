@@ -27,6 +27,36 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 - Shortlisted for **9 sector awards** — MJ Awards, LGC Awards, HTN Awards
 - HIPAA/GDPR-compliant architecture; UK-hosted infrastructure via HGS UK
 
+---
+
+### Multi-Tenant Agentic AI Platform
+> Orchestrator-led platform for building AI assistants and digital workers — HGS Global Solutions
+
+- Architected a **multi-tenant platform** supporting pluggable cloud and self-hosted LLM runtimes
+- Deployed **digital workers** resolving customer webforms at **900+ requests/day** with minimal human-agent intervention
+- Integrated a **call-center chatbot** for inbound customer queries and **automated auto-finance approval** workflows
+- Built with **LangGraph**, **LangChain**, end-to-end **Opik** tracing for observability, and dual deployment models (dedicated client infra or agentic SaaS)
+
+---
+
+### Open-Source LLM Inference Platform
+> Self-hosted, cost-effective alternative to cloud LLM APIs — HGS Global Solutions
+
+- Engineered a private on-premises LLM inference platform using **vLLM** on **Amazon EC2**
+- Enables enterprise clients to run open-weight models without relying on third-party cloud APIs
+- Supports the agentic platform as a pluggable self-hosted LLM runtime
+
+---
+
+### Automated RFP Response Tool
+> RAG-powered web tool for auto-drafting enterprise RFP responses — HGS Global Solutions
+
+- Built with **Django**, **Celery**, **LlamaIndex**, **LlamaParse**, and **Azure AI Search**
+- Parses uploaded RFPs and auto-drafts section-level responses — executive summary, legal terms, disqualifiers, deliverables, and Q&A
+- Grounds responses in enterprise corpora via reranked retrieval with source citations, exported as structured **Word documents**
+
+---
+
 ## 🤖 AI & LLM
 
 **Frameworks & orchestration**
