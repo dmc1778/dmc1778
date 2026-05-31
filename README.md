@@ -57,53 +57,22 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 
 ---
 
-## 🤖 AI & LLM
+## 🧠 Skills
 
-**Frameworks & orchestration**
-![LangChain](https://img.shields.io/badge/LangChain-00A2FF?style=flat&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-00A2FF?style=flat&logo=python&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=flat&logo=python&logoColor=white)
-![LlamaParse](https://img.shields.io/badge/LlamaParse-8A2BE2?style=flat)
+**Core Software & System Engineering**
+`AWS EC2/ECS/ECR/S3` `Python` `C/C++` `JavaScript` `Java` `Shell` `Solidity` `FastAPI` `Django` `Celery` `Nginx` `Uvicorn` `MongoDB` `PostgreSQL` `MySQL` `Docker` `CI/CD` `Azure Resource Groups` `Railway`
 
-**Deep learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-EE4C2C?style=flat&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+**AI & Prompt Engineering**
+`RAG` `LLM Fine-Tuning` `Prompt Engineering` `Agentic AI` `LangChain` `LangGraph` `LlamaIndex` `LlamaParse` `Azure AI Foundry` `Azure AI Search` `Azure Model Deployment` `Deployment Configuration` `vLLM` `Ollama` `PyTorch` `TensorFlow` `Hugging Face` `scikit-learn` `Pandas`
 
-**Local LLM inference**
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=python&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-0052CC?style=flat&logo=python&logoColor=white)
+**Observability & Evaluation**
+`Opik` `LangSmith` `HITL` `Monitoring & Tracing`
 
-**NLP & document parsing**
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-9C2DFF?style=flat)
-![Textract](https://img.shields.io/badge/Textract-1E90FF?style=flat)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-6B6B6B?style=flat)
+**Security, Governance & Guardrails**
+`PII` `PHI` `Azure Content Filtering` `Privacy-Aware Logging`
 
-**Observability & evaluation**
-![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=flat&logo=python&logoColor=white)
-![Opik](https://img.shields.io/badge/Opik-7B61FF?style=flat&logo=python&logoColor=white)
-
----
-
-## 🧠 AI Skills
-
-| Skill | Tools & Technologies |
-|---|---|
-| Large Language Models | LangChain · LlamaIndex · Ollama · vLLM · Transformers · Hugging Face |
-| LLM Fine-Tuning | Hugging Face · PyTorch · TensorFlow |
-| Agentic AI & Multi-Agent Systems | LangGraph · LangChain Agents · LlamaIndex |
-| RAG & Document Pipelines | LlamaIndex · LlamaParse · Azure AI Search · Textract · Tesseract OCR · Qdrant |
-| Prompt Engineering | LangSmith · Azure AI Foundry |
-| AI Observability & Evaluation | Opik · LangSmith · HITL · Monitoring & Tracing |
-| Vector Search & Embeddings | Qdrant · FAISS · Azure AI Search · LlamaIndex |
-| NLP & Text Processing | spaCy · NLTK · Transformers · Textract |
-| Deep Learning | PyTorch · TensorFlow · scikit-learn · Pandas |
-| Local LLM Inference | Ollama · vLLM |
-| OCR & Document Parsing | Tesseract OCR · Textract · LlamaParse |
-| Cloud AI Deployment | AWS EC2 · AWS ECS · AWS ECR · Azure AI Foundry · Azure Model Deployment · Docker · Kubernetes |
-| Security, Governance & Guardrails | Azure Content Filtering · PII Detection · PHI Handling · Privacy-Aware Logging |
+**Research**
+`Fuzz Testing` `Static Analysis` `Source Code Audit` `SE4AI`
 
 ---
 
