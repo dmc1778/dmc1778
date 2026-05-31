@@ -59,33 +59,18 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 
 ## 🧠 Skills
 
-**Core Software & System Engineering**
-`AWS EC2/ECS/ECR/S3` `Python` `C/C++` `JavaScript` `Java` `Shell` `Solidity` `FastAPI` `Django` `Celery` `Nginx` `Uvicorn` `MongoDB` `PostgreSQL` `MySQL` `Docker` `CI/CD` `Azure Resource Groups` `Railway`
-
-**AI & Prompt Engineering**
-`RAG` `LLM Fine-Tuning` `Prompt Engineering` `Agentic AI` `LangChain` `LangGraph` `LlamaIndex` `LlamaParse` `Azure AI Foundry` `Azure AI Search` `Azure Model Deployment` `Deployment Configuration` `vLLM` `Ollama` `PyTorch` `TensorFlow` `Hugging Face` `scikit-learn` `Pandas`
-
-**Observability & Evaluation**
-`Opik` `LangSmith` `HITL` `Monitoring & Tracing`
-
-**Security, Governance & Guardrails**
-`PII` `PHI` `Azure Content Filtering` `Privacy-Aware Logging`
-
-**Research**
-`Fuzz Testing` `Static Analysis` `Source Code Audit` `SE4AI`
-
----
-
-## ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
 **AWS**
 ![S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazons3&logoColor=white)
 ![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat&logo=amazonecs&logoColor=white)
+![ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=flat&logo=amazon&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=flat&logo=amazoncloudwatch&logoColor=white)
 
 **Azure**
 ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Resource Groups](https://img.shields.io/badge/Azure_Resource_Groups-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 **DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -94,10 +79,11 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ---
 
-## 🗄️ Databases & Vector Stores
+### 🗄️ Databases & Vector Stores
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -109,28 +95,30 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 
 ---
 
-## 🌐 Web & API
+### 🌐 Web & API
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=python&logoColor=white)
 
 ---
 
-## 💻 Languages
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
 ---
 
-## 🔬 Testing & Security Auditing
+### 🔬 Testing & Security Auditing
 
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
