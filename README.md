@@ -76,17 +76,6 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 
 ---
 
-## 🔐 AI Compliance & Ethics
-
-| Area | Description |
-|---|---|
-| HIPAA Compliance | Building AI systems that handle protected health information (PHI) in accordance with HIPAA regulations |
-| PII Handling | Designing pipelines with PII detection, masking, and anonymization best practices |
-| Ethical AI | Developing responsible AI systems with fairness, transparency, and bias mitigation in mind |
-| Data Privacy | Applying privacy-by-design principles across data collection, storage, and model inference |
-
----
-
 ## ☁️ Cloud & Infrastructure
 
 **AWS**
