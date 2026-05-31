@@ -91,17 +91,19 @@ Currently working at [HGS Global Solutions](https://hgs.cx/) since April 2025.
 
 | Skill | Tools & Technologies |
 |---|---|
-| Large Language Models | LangChain · LlamaIndex · Ollama · vLLM · Transformers |
-| Agentic AI & Multi-Agent Systems | LangGraph · LlamaIndex · LangChain Agents |
-| RAG & Document Pipelines | LlamaIndex · LlamaParse · Textract · Tesseract OCR · Qdrant |
-| Prompt Engineering | LangSmith |
-| AI Observability & Evaluation | LangSmith · Opik |
-| Vector Search & Embeddings | Qdrant · FAISS · LlamaIndex |
+| Large Language Models | LangChain · LlamaIndex · Ollama · vLLM · Transformers · Hugging Face |
+| LLM Fine-Tuning | Hugging Face · PyTorch · TensorFlow |
+| Agentic AI & Multi-Agent Systems | LangGraph · LangChain Agents · LlamaIndex |
+| RAG & Document Pipelines | LlamaIndex · LlamaParse · Azure AI Search · Textract · Tesseract OCR · Qdrant |
+| Prompt Engineering | LangSmith · Azure AI Foundry |
+| AI Observability & Evaluation | Opik · LangSmith · HITL · Monitoring & Tracing |
+| Vector Search & Embeddings | Qdrant · FAISS · Azure AI Search · LlamaIndex |
 | NLP & Text Processing | spaCy · NLTK · Transformers · Textract |
-| Deep Learning | PyTorch · TensorFlow · scikit-learn |
+| Deep Learning | PyTorch · TensorFlow · scikit-learn · Pandas |
 | Local LLM Inference | Ollama · vLLM |
 | OCR & Document Parsing | Tesseract OCR · Textract · LlamaParse |
-| Cloud AI Deployment | AWS ECS · AWS EC2 · Azure AI Foundry · Docker · Kubernetes |
+| Cloud AI Deployment | AWS EC2 · AWS ECS · AWS ECR · Azure AI Foundry · Azure Model Deployment · Docker · Kubernetes |
+| Security, Governance & Guardrails | Azure Content Filtering · PII Detection · PHI Handling · Privacy-Aware Logging |
 
 ---
 
