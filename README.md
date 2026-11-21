@@ -138,12 +138,6 @@ Currently working at [HGS Canada](https://hgs.cx/) since April 2025.
 
 ---
 
-## 🤝 Built with
-
-> This profile was crafted with the help of [Claude](https://claude.ai) by Anthropic.
-
----
-
 ## 💖 Support
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://buymeacoffee.com/nimashiriharzevili)
