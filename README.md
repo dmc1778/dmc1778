@@ -20,12 +20,19 @@ Currently working at [HGS Canada](https://hgs.cx/) since April 2025.
 ## 🏆 Featured Projects
 
 ### [CHC+ Innovations™](https://chc.plus)
-> AI-powered Continuing Healthcare checklist platform built for UK local authorities
+> AI-powered NHS Continuing Healthcare (CHC) checklist platform built for UK local authorities
 
-- Reduced CHC checklist drafting time by **80%+** (from ~4 hours to ~30 minutes)
-- Achieved **zero ICB rejections** in pilot (previously 1 in 10)
-- Shortlisted for **9 sector awards** — MJ Awards, LGC Awards, HTN Awards
-- HIPAA/GDPR-compliant architecture; UK-hosted infrastructure via HGS UK
+**Case study — Ealing Council (Adult Social Care) pilot:**
+- Cut checklist drafting time by **80%+**, from 4+ hours to ~30 minutes per checklist
+- **Zero ICB rejections** during the pilot (previously 1 in 10)
+- **9 CHC cases accepted** in the pilot, exceeding Ealing's annual CHC target
+- *"Every local authority should be using CHC+ Innovations™."* — Social Worker, Ealing Council
+
+**Product & recognition:**
+- Extracts evidence across all **12 CHC domains** from existing case documents to produce a first draft, supporting (not replacing) professional assessment
+- Now being piloted across further local authorities, with an early-adopter cohort of 15 councils
+- Shortlisted for **9 sector awards**, including the MJ Awards, LGC Awards, and HTN Awards
+- UK-hosted infrastructure via HGS UK; case data is never used to train open-market AI models
 
 ---
 
@@ -35,7 +42,7 @@ Currently working at [HGS Canada](https://hgs.cx/) since April 2025.
 - Architected a **multi-tenant platform** supporting pluggable cloud and self-hosted LLM runtimes
 - Deployed **digital workers** resolving customer webforms at **900+ requests/day** with minimal human-agent intervention
 - Integrated a **call-center chatbot** for inbound customer queries and **automated auto-finance approval** workflows
-- Built with **LangGraph**, **LangChain**, end-to-end **Opik** tracing for observability, and dual deployment models (dedicated client infra or agentic SaaS)
+- Built with **LangGraph**, **LangChain**, end-to-end **LangSmith** tracing for observability, and dual deployment models (dedicated client infra or agentic SaaS)
 
 ---
 
